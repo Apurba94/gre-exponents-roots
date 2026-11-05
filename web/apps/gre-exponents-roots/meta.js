@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-exponents-roots", "title": "Exponents and Roots", "exam": "GRE", "area": "GRE Quant", "desc": "Laws of exponents, roots, scientific notation and comparing powers, generated with solutions.", "content": [], "n": 27};
